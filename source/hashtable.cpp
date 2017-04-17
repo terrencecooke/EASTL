@@ -2,6 +2,7 @@
 // Copyright (c) Electronic Arts Inc. All rights reserved.
 ///////////////////////////////////////////////////////////////////////////////
 
+// Terrence Cooke 04/17/2017 - first edit
 
 #include <EASTL/internal/hashtable.h>
 #include <EASTL/utility.h>
